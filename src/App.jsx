@@ -1,8 +1,9 @@
 import Header from "./components/Header"
 import MovieListPage from "./pages/MovieListPage"
 import { Outlet } from "react-router-dom"
-function App() {
 
+function App() {
+  
   return (
     <>
       <Header></Header>
